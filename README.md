@@ -16,12 +16,12 @@ This command-line application scrapes website URLs provided via standard input a
 1. **Build the Docker Image**
    Use this command to build the Docker image for the application:` 
 
-make build
+`make build`
 
- ``2. **Run the Application**
+2. **Run the Application**
 To run the application using a list of URLs from a file called `websites.txt`, use the following command:`` 
 
-make run
+`make run`
 
 ### Alternative Commands
 
