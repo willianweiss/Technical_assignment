@@ -73,9 +73,3 @@ Run the application directly with Python using:`
 ## Usage
 
 After setting up the environment, you can run the application using the `cat websites.txt | python src/main.py` command within the activated virtual environment. Results will be outputted in JSON format directly to your console.
-
-### Explanation of Additions
-
--   **Virtual Environment Setup**: Detailed instructions for setting up a Python virtual environment are provided to help isolate dependencies and avoid conflicts with system-wide Python packages.
--   **Dependency Installation**: Guidance on how to install required libraries within the virtual environment.
--   **Execution Instructions**: Clear instructions on how to run the application locally using the virtual environment, which is particularly useful for development and testing purposes.
